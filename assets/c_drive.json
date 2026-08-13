@@ -1,0 +1,125 @@
+{
+  "C:": {
+    "type": "dir",
+    "children": {
+      "Windows": {
+        "type": "dir",
+        "children": {
+          "System32": {
+            "type": "dir",
+            "children": {
+              "drivers": {"type": "dir", "children": {}},
+              "config": {"type": "dir", "children": {}},
+              "wbem": {"type": "dir", "children": {}},
+              "driverstore": {"type": "dir", "children": {}},
+              "Schemas": {"type": "dir", "children": {}},
+              "GroupPolicy": {"type": "dir", "children": {}},
+              "catroot2": {"type": "dir", "children": {}},
+              "LogFiles": {"type": "dir", "children": {}},
+              "perflib": {"type": "file", "size": 0},
+              "SchedLgU.txt": {"type": "file", "size": 0}
+            }
+          },
+          "SysWOW64": {"type": "dir", "children": {}},
+          "Fonts": {"type": "dir", "children": {}},
+          "INF": {"type": "dir", "children": {}},
+          "PolicyDefinitions": {"type": "dir", "children": {}},
+          "Resources": {"type": "dir", "children": {}},
+          "ServiceProfiles": {"type": "dir", "children": {}},
+          "SoftwareDistribution": {"type": "dir", "children": {}},
+          "temp": {"type": "dir", "children": {}},
+          "Tracing": {"type": "dir", "children": {}},
+          "WinSxS": {"type": "dir", "children": {}},
+          "bootstat.dat": {"type": "file", "size": 0},
+          "win.ini": {"type": "file", "content": "[extensions]\nANSI=0\n[fonts]\n[mci extensions]\n"},
+          "wininit.ini": {"type": "file", "content": "[BootVerify]\nAutoReboot=true\n"},
+          "pagefile.sys": {"type": "file", "size": 2097152},
+          "hiberfil.sys": {"type": "file", "size": 4194304},
+          "swapfile.sys": {"type": "file", "size": 0}
+        }
+      },
+      "Program Files": {
+        "type": "dir",
+        "children": {
+          "WindowsApps": {"type": "dir", "children": {}},
+          "Windows Media Player": {"type": "dir", "children": {}},
+          "Windows NT": {"type": "dir", "children": {}},
+          "Windows Defender": {"type": "dir", "children": {}},
+          "Internet Explorer": {"type": "dir", "children": {}},
+          "Common Files": {
+            "type": "dir",
+            "children": {
+              "Microsoft Shared": {"type": "dir", "children": {}},
+              "System": {"type": "dir", "children": {}}
+            }
+          }
+        }
+      },
+      "Program Files (x86)": {
+        "type": "dir",
+        "children": {
+          "Internet Explorer": {"type": "dir", "children": {}},
+          "Windows Media Player": {"type": "dir", "children": {}},
+          "Common Files": {"type": "dir", "children": {}}
+        }
+      },
+      "Users": {
+        "type": "dir",
+        "children": {
+          "Default": {"type": "dir", "children": {}},
+          "Public": {
+            "type": "dir",
+            "children": {
+              "Public Documents": {"type": "dir", "children": {}},
+              "Public Pictures": {"type": "dir", "children": {}},
+              "Public Music": {"type": "dir", "children": {}},
+              "Public Videos": {"type": "dir", "children": {}}
+            }
+          },
+          "Administrator": {
+            "type": "dir",
+            "children": {
+              "Desktop": {"type": "dir", "children": {}},
+              "Documents": {
+                "type": "dir",
+                "children": {
+                  "My Documents": {"type": "dir", "children": {}},
+                  "readme.txt": {"type": "file", "content": "Welcome to Windows CMD Simulator!\nThis is a simulated environment.\n"}
+                }
+              },
+              "Downloads": {"type": "dir", "children": {}},
+              "Music": {"type": "dir", "children": {}},
+              "Pictures": {"type": "dir", "children": {}},
+              "Videos": {"type": "dir", "children": {}},
+              "AppData": {
+                "type": "dir",
+                "children": {
+                  "Local": {"type": "dir", "children": {}},
+                  "Roaming": {"type": "dir", "children": {}},
+                  "LocalLow": {"type": "dir", "children": {}}
+                }
+              },
+              "NTUSER.DAT": {"type": "file", "size": 0}
+            }
+          }
+        }
+      },
+      "ProgramData": {
+        "type": "dir",
+        "children": {
+          "Microsoft": {"type": "dir", "children": {}},
+          "Microsoft Help": {"type": "dir", "children": {}},
+          "Packages": {"type": "dir", "children": {}}
+        }
+      },
+      "PerfLogs": {
+        "type": "dir",
+        "children": {
+          "System": {"type": "dir", "children": {}}
+        }
+      },
+      "pagefile.sys": {"type": "file", "size": 2097152},
+      "hiberfil.sys": {"type": "file", "size": 4194304}
+    }
+  }
+}
