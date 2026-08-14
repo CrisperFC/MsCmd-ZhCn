@@ -1,6 +1,7 @@
 # Windows CMD 模拟器
 
 一个纯 Python 实现的 Windows CMD 命令行模拟器，提供虚拟文件系统和常用命令支持。
+
 **注**：dist 文件夹里面是在 Windows 10 环境下打包的exe文件，适合帮助在Windows 10+没有Python环境下的用户使用。
 
 ## 功能特性
