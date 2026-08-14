@@ -1,6 +1,6 @@
 # Windows CMD Simulator
 
-**Language** [English](Language/en-us.md) [中文](README.md)
+**Language** [English](Language/en-us.md) [中文](../README.md)
 
 A Windows CMD command-line simulator purely built with Python, equipped with a virtual file system and support for common commands.
 
