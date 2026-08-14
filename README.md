@@ -138,34 +138,10 @@ python -m unittest tests.test_virtual_fs
 python test_simple.py
 ```
 
-## 许可证
-
-EN license:
-
-Fake Copyright (c) 2025 - 2026 Crisper Python Unity Community. 
-
-Fake Copyright (c) 2025 - 2026 Crisper Module Unity Community.
-
-Fake Copyright (c) 2025 - 2026 Crisper FrameWork Ltd.
-
-Fake Copyright (c) 2025 - 2026 Crisper Windows Virtual Function Company Ltd.
-
-Thanks for using this project! If you have any questions or need further assistance, feel free to reach out. Happy coding! 🚀
-
-CN 许可:
-
-Fake 版权 (c) 2025 - 2026 Crisper Python 统一社区。
-
-Fake 版权 (c) 2025 - 2026 Crisper 模块统一社区。
-
-Fake 版权 (c) 2025 - 2026 Crisper 框架连锁公司。
-
-Fake 版权 (c) 2025 - 2026 Crisper Windows 虚拟函数公司 Ltd.
-
-感谢使用本项目！如果您有任何问题或需要进一步的帮助，请随时联系。祝编程愉快！ 🚀
-
 ## 联系方式
 
 TEL.: 18770020040
 
 WECHAT: 18770020040
+
+感谢使用本项目！如果您有任何问题或需要进一步的帮助，请随时联系。祝编程愉快！ 🚀
