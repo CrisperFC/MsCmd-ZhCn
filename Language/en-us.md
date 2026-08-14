@@ -1,5 +1,7 @@
 # Windows CMD Simulator
 
+**语言** [English](Language/en-us.md) [中文](README.md)
+
 A Windows CMD command-line simulator purely built with Python, equipped with a virtual file system and support for common commands.
 
 **Note**: The dist folder contains executable files packaged under Windows 10. They are suitable for users on Windows 10+ without a local Python environment.
