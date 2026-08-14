@@ -1,4 +1,5 @@
 # Windows CMD 模拟器
+**语言** [English](Language/en-us.md) [中文](README.md)
 
 一个纯 Python 实现的 Windows CMD 命令行模拟器，提供虚拟文件系统和常用命令支持。
 
